@@ -253,4 +253,7 @@ a {
 }
 .bgimg {
     background: url(../images/Popstar-285-322.jpg) no-repeat 50%;
+    width: 100%;
+    height: auto;
+
 }
