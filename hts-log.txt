@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 May 2017 12:38:41 at https://www.tosci.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.tosci.com/ -O1 "C:\My Web Sites\icecream" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:38:43	Warning: 	Moved Permanently for https://www.tosci.com/robots.txt
+12:38:43	Warning: 	File has moved from https://www.tosci.com/robots.txt to /robots.txt/
+12:38:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1003): assets-cdn.getbento.com/assets/tosci/!181cd2f2f91b!/img/mobile-nav.png
+12:46:23	Warning: 	Unable to test https://blog.virginatlantic.com/legacyfs/online/uploads/2011/06/icecream-header.jpg?d=1 (loop to same filename)
+12:46:23	Warning: 	link is probably looping, type unknown, aborting: https://blog.virginatlantic.com/legacyfs/online/uploads/2011/06/icecream-header.jpg?d=1
+12:47:15	Error: 	"Not Found" (404) at link https://newengland.com/today/wp-content/uploads/2013/04/BONE2014LogoWeb.HA_-370x352.png (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link www.hercampus.com/sites/default/files/styles/full_width_embed/public/2014/04/02/Screen Shot 2014-04-02 at 12.14.05 AM.png?itok=qaoS6WvJ (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link www.mensjournal.com/img/essential/toscanini-cambridge-massachusetts-best-ice-cream-shops-in-america/298_298_toscanini-cambridge-massachusetts-best-ice-cream-shops-in-america.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link https://newengland.com/today/wp-content/uploads/2013/07/YK0713_118-360x450.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link https://boston.eater.com/uploads/eugenemirman_pic_1-thumb.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link www.gq.com/images/food-and-travel/2012/08/ice-cream/shops-to-visit/inset-bi-rite.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link https://boston.eater.com/uploads/toscanini-exterior.jpeg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Forbidden" (403) at link travel.usnews.com/images/articles/246/Main.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link digboston.com/wp-content/uploads/2012/05/nyanicecream1.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link https://boston.eater.com/uploads/2nyncimages.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Forbidden" (403) at link cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Food/On_The_Cheap/main_nyancat3_480.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link roadfood.com/photos/mini_17193.jpg (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link s3.amazonaws.com/cmi-niche/assets/pictures/19066/content_BC98_SS_b.jpg?1329254392 (from https://www.tosci.com/press/)
+12:47:15	Error: 	"Not Found" (404) at link wnyw.images.worldnow.com/images/717351_G.jpg (from https://www.tosci.com/press/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 37 seconds : 190 links scanned, 175 files written (11790668 bytes overall) [11754831 bytes received at 22736 bytes/sec], 906000 bytes transferred using HTTP compression in 34 files, ratio 25%, 1.5 requests per connection
+(14 errors, 5 warnings, 0 messages)
