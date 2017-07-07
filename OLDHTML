@@ -1,1 +1,261 @@
-HI
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="stylesheets/all.css" media="screen">
+	  <link rel="stylesheet" type="text/css" href="stylesheets/site.css" media="screen">
+<div class="nav-container primary-wrapper">
+
+
+		<ul class="nav-list" data-content-field="navigation-mainNav">
+
+			
+				<li class="nav-item">
+					<a href="/" class="nav-link">
+						<span class="nav-link-text">Home</span>
+					</a>
+				</li>
+		
+				
+				<li class="nav-item ">
+					<a href="#" class="nav-link">
+						<span class="nav-link-text">Our Story</span>
+					</a>
+				</li>
+				
+
+				
+				<li class="nav-item ">
+					<a href="/" class="nav-link">
+						<span class="nav-link-text">PRESS</span>
+					</a>
+				</li>
+				
+
+			
+				<li class="nav-item nav-folder">
+
+					<input type="checkbox" id="nav-folder-mobile-checkbox-new-folder" class="nav-folder-mobile-checkbox">
+						
+					<a class="nav-folder-toplevel-link nav-link" aria-haspopup="true">
+						<label for="nav-folder-mobile-checkbox-new-folder" class="nav-folder-mobile-menu-label" onclick="">
+							<span class="nav-link-text">Find Us</span><span class="nav-folder-mobile-plus-icon"></span>
+						</label>
+					</a>
+
+					<div class="nav-folder-container">
+
+						<ul class="nav-folder-list">
+	<li class="nav-folder-item ">
+									<a href="/" class="nav-folder-link">
+										<span class="nav-folder-link-text">Peggi Locations</span>
+									</a>
+								</li>
+							
+								
+								<li class="nav-folder-item ">
+									<a href="/" class="nav-folder-link">
+										<span class="nav-folder-link-text">Pop Peddlers</span>
+									</a>
+								</li>
+						</ul>
+
+					</div>
+
+				</li>
+
+			
+				
+				<li class="nav-item ">
+					<a href="/" class="nav-link">
+						<span class="nav-link-text">CAFE/HQ</span>
+					</a>
+				</li>
+			
+			
+				<li class="nav-item nav-folder">
+
+					<input type="checkbox" id="nav-folder-mobile-checkbox-contact-us" class="nav-folder-mobile-checkbox">
+						
+					<a class="nav-folder-toplevel-link nav-link" aria-haspopup="true">
+						<label for="nav-folder-mobile-checkbox-contact-us" class="nav-folder-mobile-menu-label" onclick="">
+							<span class="nav-link-text">Contact Us</span><span class="nav-folder-mobile-plus-icon"></span>
+						</label>
+					</a>
+
+					<div class="nav-folder-container">
+
+						<ul class="nav-folder-list">
+
+								<li class="nav-folder-item ">
+									<a href="/" class="nav-folder-link">
+										<span class="nav-folder-link-text">GENERAL</span>
+									</a>
+								</li>
+								<li class="nav-folder-item ">
+									<a href="/" class="nav-folder-link">
+										<span class="nav-folder-link-text">WHOLESALE</span>
+									</a>
+								</li>
+						</ul>
+
+					</div>
+
+				</li><li class="nav-item ">
+					<a href="#" class="nav-link">
+						<span class="nav-link-text">Shop</span>
+					</a>
+				</li>
+			
+	  	</ul>
+	</div>
+    <title>The Peggi Popsicles</title>
+	  <div><ul class="nav-list"><li class="nav-item">
+		  <img src="../images/hyppo.png" alt="Smiley face" height="200" width="350"/></li>
+    
+		  <li class="nav-item" ><h1 id="welcome-peggi"> Welcome to the World of Peggi </h1></li></ul> </div>
+ </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content" class="intro-area intro-hp" >
+        
+       		<div class="section text2">
+			<div class="text-section">
+				<p>Popsicles – <span class="color-blue">Eat</span>  <span class="color-green">Fruit</span> <span class="color-orange">as it is</span>&nbsp;– <br>we are your on-demand service</p>
+			</div>
+			<img src="../images/logo_11_8_1_11476799285886.jpg" alt="Smiley face" height="200" width="350"/>
+			<img src="../images/logo_13_3_4_21476797741338.jpg" alt="Smiley face" height="200" width="350"/>
+			<img src="../images/logo_1_3_4_21476797660635.jpg" alt="Smiley face" height="200" width="350"/>
+			<img src="../images/logo_20_4_5_51476797317431.jpg" alt="Smiley face" height="200" width="350"/>
+			<img src="../images/logo_7_4_5_51476797229853.jpg" alt="Smiley face" height="200" width="350"/>
+			<img src="../images/logo_9_4_4_21476799106167.jpg" alt="Smiley face" height="200" width="350"/>
+		</div>
+		<div class="section dark-blue3">
+			<div class="slide-holder">
+				<div class="content-holder bgimg img-responsive">
+					<h1>Development in Progress</h1>
+           <img src="../images/comingsoon.png" alt="Smiley face" height="420" width="420"/>
+					<strong class="sub-title">Peggi World </strong>
+			</div>
+		</div>
+	      </div>
+		<div class="section orange2">
+			<div class="slide-holder">
+				<div class="content-holder">
+					<h1>CMS-based Development</h1>
+					
+				</div>
+			</div>
+		</div>
+		<div class="section green3">
+			<div class="slide-holder">
+				<div class="content-holder">
+					<h1>Email Templates</h1>
+					
+					<a href="/work.html" class="learn-more view-work-email">View our work</a>
+				</div>
+			</div>
+		</div>
+	</section>
+      
+    </div>
+<div class="row sqs-row" id="yui_3_17_2_1_1476706405113_248"><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1476706405113_247"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-6a5fbfe94181a6694224"><div class="sqs-block-content" id="yui_3_17_2_1_1476706405113_246">
+	<div class="image-block-outer-wrapper layout-caption-below " id="yui_3_17_2_1_1476706405113_245">
+	
+		<div class="intrinsic" style="max-width:432.0px;" id="yui_3_17_2_1_1476706405113_244">
+			
+				<a href="/" id="yui_3_17_2_1_1476706405113_243">
+			
+				<div style="padding-bottom:84.25926208496094%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1476706405113_242">
+					<noscript>&lt;img src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821afee4b007073a0c4ba9/1401035518947/visit_our_stores.jpg"  alt="visit_our_stores.jpg"  /&gt;</noscript><img class="thumb-image loaded" data-src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821afee4b007073a0c4ba9/1401035518947/visit_our_stores.jpg" data-image="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821afee4b007073a0c4ba9/1401035518947/visit_our_stores.jpg" data-image-dimensions="432x364" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="53821afee4b007073a0c4ba9" data-type="image" alt="visit_our_stores.jpg" src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821afee4b007073a0c4ba9/1401035518947/visit_our_stores.jpg?format=300w" data-image-resolution="300w" style="top: -0.106838%; left: 0%; width: 100%; height: 100.214%; position: absolute;">
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+
+</div></div></div><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1476706405113_266"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_10_1_1_1401035461095_24959"><div class="sqs-block-content" id="yui_3_17_2_1_1476706405113_265">
+	<div class="image-block-outer-wrapper layout-caption-below " id="yui_3_17_2_1_1476706405113_264">
+	
+		<div class="intrinsic" style="max-width:432.0px;" id="yui_3_17_2_1_1476706405113_263">
+			
+				<a href="/" id="yui_3_17_2_1_1476706405113_262">
+			
+				<div style="padding-bottom:84.25926208496094%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1476706405113_261">
+					<noscript>&lt;img src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b5fe4b0ac7f7a7bf3d7/1401035615497/orderonline"  alt="orderonline"  /&gt;</noscript><img class="thumb-image loaded" data-src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b5fe4b0ac7f7a7bf3d7/1401035615497/orderonline" data-image="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b5fe4b0ac7f7a7bf3d7/1401035615497/orderonline" data-image-dimensions="432x364" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="53821b5fe4b0ac7f7a7bf3d7" data-type="image" alt="orderonline" src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b5fe4b0ac7f7a7bf3d7/1401035615497/orderonline?format=300w" data-image-resolution="300w" style="top: -0.106838%; left: 0%; width: 100%; height: 100.214%; position: absolute;">
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+
+</div></div></div><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1476706405113_284"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-4797d3aae9157b4979bf"><div class="sqs-block-content" id="yui_3_17_2_1_1476706405113_283">
+	<div class="image-block-outer-wrapper layout-caption-below " id="yui_3_17_2_1_1476706405113_282">
+	
+		<div class="intrinsic" style="max-width:432.0px;" id="yui_3_17_2_1_1476706405113_281">
+			
+				<a href="/" id="yui_3_17_2_1_1476706405113_280">
+			
+				<div style="padding-bottom:84.25926208496094%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1476706405113_279">
+					<noscript>&lt;img src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b29e4b036bf39f29e7c/1401035562141/read_our_blog.jpg"  alt="read_our_blog.jpg"  /&gt;</noscript><img class="thumb-image loaded" data-src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b29e4b036bf39f29e7c/1401035562141/read_our_blog.jpg" data-image="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b29e4b036bf39f29e7c/1401035562141/read_our_blog.jpg" data-image-dimensions="432x364" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="53821b29e4b036bf39f29e7c" data-type="image" alt="read_our_blog.jpg" src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821b29e4b036bf39f29e7c/1401035562141/read_our_blog.jpg?format=300w" data-image-resolution="300w" style="top: -0.106838%; left: 0%; width: 100%; height: 100.214%; position: absolute;">
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+
+</div></div></div><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1476706405113_302"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-269cd1886d7899339a50"><div class="sqs-block-content" id="yui_3_17_2_1_1476706405113_301">
+	<div class="image-block-outer-wrapper layout-caption-below " id="yui_3_17_2_1_1476706405113_300">
+	
+		<div class="intrinsic" style="max-width:432.0px;" id="yui_3_17_2_1_1476706405113_299">
+			
+				<a href="/" id="yui_3_17_2_1_1476706405113_298">
+			
+				<div style="padding-bottom:84.25926208496094%;" class="image-block-wrapper   has-aspect-ratio" data-description="" id="yui_3_17_2_1_1476706405113_297">
+					<noscript>&lt;img src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821ae1e4b08f61e7a522d8/1401035489864/SPOT+OUR+TRUCK"  alt="SPOT OUR TRUCK"  /&gt;</noscript><img class="thumb-image loaded" data-src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821ae1e4b08f61e7a522d8/1401035489864/SPOT+OUR+TRUCK" data-image="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821ae1e4b08f61e7a522d8/1401035489864/SPOT+OUR+TRUCK" data-image-dimensions="432x364" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="53821ae1e4b08f61e7a522d8" data-type="image" alt="SPOT OUR TRUCK" src="https://static1.squarespace.com/static/51f986e6e4b0b49df4c687eb/t/53821ae1e4b08f61e7a522d8/1401035489864/SPOT+OUR+TRUCK?format=300w" data-image-resolution="300w" style="top: -0.106838%; left: 0%; width: 100%; height: 100.214%; position: absolute;">
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+
+</div></div></div></div>
+    
+  </body>
+</html>
