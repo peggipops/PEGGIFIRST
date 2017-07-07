@@ -1,4 +1,4 @@
-(function($) {
+(function() {
 	$(document).ready(function() {
 		$('.stretchback').each(function() {
 			$(this).backstretch($(this).attr('data-image'));
